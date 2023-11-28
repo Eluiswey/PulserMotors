@@ -1,0 +1,119 @@
+.navbar-brand{
+font-size:1.6rem;
+color: #ffa500;
+font-style: italic;
+font-weight: bold;
+}
+.nav-link{  
+    color: #d3850f;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: rgb(0, 0, 0);
+}
+#motos{ 
+    color:white;
+}
+header{
+    background-color:#56565c;
+}
+.card{
+    height: 34rem;
+    width: 18rem;
+    .txt{
+            text-align: justify;
+            }
+            .forma{
+                text-align: center;
+            }
+    }
+footer{
+    background-image:url(../IMG/asfalto.webp);
+    background-size: cover;
+    a:hover{
+        color: rgb(255, 5, 5);
+    }
+    a:link{
+        color: rgb(255, 0, 0);
+    }
+    a:visited{
+        color: rgb(255, 0, 0);
+    }
+}
+
+.superdeportivas{
+    background-image: url(../IMG/deppp.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+}
+.Dobleproposito{
+    background-image: url(../IMG/bannerdp.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.urbana{
+    background-image: url(../IMG/banurb.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.trabajo{
+    background-image: url(../IMG/bannertra.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.adventure{
+    background-image: url(../IMG/banneradv.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.deportiva{
+    background-image: url(../IMG/banndep.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-sizing: content-box;
+}
+.Motonetas{
+    background-image: url(../IMG/banmd.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Semiautomaticas{
+    background-image: url(../IMG/bansem.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#Image{
+    background-image: url(../IMG/cardserv.webp);
+    background-repeat: no-repeat;
+    image-resolution:inherit;
+    background-size: cover;
+}
+#formu{
+    background-color: rgba(209, 205, 205, 0.795);
+    padding: 100px;
+    background-position: center;
+    background-size: cover;
+}
+#maus{
+    background-color: rgb(255, 255, 255);
+}
+#simp{
+    text-align:right;
+}
+#buton{
+    text-align: center;
+    width: 580px;
+}
+
+  
